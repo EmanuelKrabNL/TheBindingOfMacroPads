@@ -12,16 +12,16 @@ A 6-key macropad with a rotary encoder and a 0.91" OLED display, built around a 
 
 ## CAD Model:
 
-<img src=assets/cad.png alt="Case" width="300"/>
+<img src=Assets/cad.png alt="Case" width="300"/>
 
 ## PCB
 Made in kicad.
 
 Schematic
-<img src=assets/schematic.png alt="Schematic" width="300"/>
+<img src=Assets/Schematic.png alt="Schematic" width="300"/>
 
 PCB
-<img src=assets/pcb.png alt="PCB" width="300"/>
+<img src=Assets/pcb.png alt="PCB" width="300"/>
 
 ## Firmware Overview
 This hackpad uses [QMK](https://qmk.fm/) firmware.
