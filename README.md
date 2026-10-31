@@ -4,11 +4,17 @@ A 6-key macropad with a rotary encoder and a 0.91" OLED display, built around a 
 
 ## Features:
 - 6 macro keys, arrow-key style layout
-- EC11-style rotary encoder — volume control, click to mute --I will add other presets that you can see on the oled screen in the future--
+- EC11-style rotary encoder — volume control, click to mute, etc.
 - 0.91" 128x32 OLED display (I2C)
 - QMK firmware
-- VIA Support is in the works
-- OLED support is also in the making
+- VIAL Support
+- OLED support
+- Different presets (Discord, The binding of isaac, spotify, OBS, snake, timer and flappy bird.
+- Konami code (up up down down left right left right), long press rotary encoder to see credits.
+- Small tboi themed icons, isaac will sleep after a minute of inactivity.
+
+## Why did i make this?
+I have a 60% keyboard, so i cant use WASD and arrows together, so i made this board so i could play the binding of isaac! 
 
 ## CAD Model:
 
